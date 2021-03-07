@@ -68,7 +68,7 @@ class _ScreenState extends State<Screen> {
             Container(
               child: Card(
                 elevation: 5,
-                child: Text("Texto 1"),
+                child: Text("Gráficos"),
               ),
             ),
             TransactionList(_transactions),
